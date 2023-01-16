@@ -48,9 +48,4 @@ while ($product = $products->fetch_assoc()) {
 
 }
 
-
-
-
-
-
 ?>
